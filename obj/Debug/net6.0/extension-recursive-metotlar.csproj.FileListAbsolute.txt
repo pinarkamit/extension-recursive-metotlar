@@ -1,0 +1,15 @@
+C:\Users\ba\Documents\Sites\csharp-101\metotlar\extension-recursive-metotlar\bin\Debug\net6.0\extension-recursive-metotlar.exe
+C:\Users\ba\Documents\Sites\csharp-101\metotlar\extension-recursive-metotlar\bin\Debug\net6.0\extension-recursive-metotlar.deps.json
+C:\Users\ba\Documents\Sites\csharp-101\metotlar\extension-recursive-metotlar\bin\Debug\net6.0\extension-recursive-metotlar.runtimeconfig.json
+C:\Users\ba\Documents\Sites\csharp-101\metotlar\extension-recursive-metotlar\bin\Debug\net6.0\extension-recursive-metotlar.dll
+C:\Users\ba\Documents\Sites\csharp-101\metotlar\extension-recursive-metotlar\bin\Debug\net6.0\ref\extension-recursive-metotlar.dll
+C:\Users\ba\Documents\Sites\csharp-101\metotlar\extension-recursive-metotlar\bin\Debug\net6.0\extension-recursive-metotlar.pdb
+C:\Users\ba\Documents\Sites\csharp-101\metotlar\extension-recursive-metotlar\obj\Debug\net6.0\extension-recursive-metotlar.csproj.AssemblyReference.cache
+C:\Users\ba\Documents\Sites\csharp-101\metotlar\extension-recursive-metotlar\obj\Debug\net6.0\extension-recursive-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ba\Documents\Sites\csharp-101\metotlar\extension-recursive-metotlar\obj\Debug\net6.0\extension-recursive-metotlar.AssemblyInfoInputs.cache
+C:\Users\ba\Documents\Sites\csharp-101\metotlar\extension-recursive-metotlar\obj\Debug\net6.0\extension-recursive-metotlar.AssemblyInfo.cs
+C:\Users\ba\Documents\Sites\csharp-101\metotlar\extension-recursive-metotlar\obj\Debug\net6.0\extension-recursive-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\ba\Documents\Sites\csharp-101\metotlar\extension-recursive-metotlar\obj\Debug\net6.0\extension-recursive-metotlar.dll
+C:\Users\ba\Documents\Sites\csharp-101\metotlar\extension-recursive-metotlar\obj\Debug\net6.0\ref\extension-recursive-metotlar.dll
+C:\Users\ba\Documents\Sites\csharp-101\metotlar\extension-recursive-metotlar\obj\Debug\net6.0\extension-recursive-metotlar.pdb
+C:\Users\ba\Documents\Sites\csharp-101\metotlar\extension-recursive-metotlar\obj\Debug\net6.0\extension-recursive-metotlar.genruntimeconfig.cache
